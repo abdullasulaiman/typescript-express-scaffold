@@ -1,0 +1,26 @@
+{
+  "name": "typescript-express-scaffold",
+  "version": "0.0.1",
+  "description": "Typescript Node Express tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullasulaiman/typescript-express-scaffold.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Node",
+    "Express",
+    "Express",
+    "Node"
+  ],
+  "author": "Mohamed Abdulla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullasulaiman/typescript-express-scaffold/issues"
+  },
+  "homepage": "https://github.com/abdullasulaiman/typescript-express-scaffold#readme"
+}
